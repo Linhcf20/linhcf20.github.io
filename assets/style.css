@@ -1,13 +1,19 @@
 .header {
-    height: 104px;
+    top: 0px;
     width: 100%;
     background-color: rgba(0,0,0,0.12);
     padding: 20px 50px;
-    position: relative;
+    position: sticky;
     display: flex;
     align-items: center;
     justify-content: space-between;
     text-transform: uppercase;
+    z-index: 100;
+    transition: .3s linear;
+}
+
+.sticky {
+
 }
 
 /* header logo img*/

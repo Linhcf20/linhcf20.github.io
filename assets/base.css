@@ -9,6 +9,7 @@
 }
 
 html {
+    scroll-behavior: smooth;
     font-size: 62.5%;
     line-height: 2.6rem;
     font-family: 'Poppins', sans-serif;
