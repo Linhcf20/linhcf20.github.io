@@ -139,9 +139,15 @@
     cursor: pointer;
 }
 
+/* container */
+.container {
+    position: relative;
+}
+
 /* slide */
 
-.slide-img {
+.slide {
+    position: relative;
     margin-top: -104px;
     background: url('/assets/img/img-introdu.jpg') top center / cover no-repeat;
     padding-top: 60%;
@@ -150,12 +156,8 @@
 
 .slider__content {
     position: absolute;
-    top: 10px;
-    right: 200px;
-    padding: 10px 0 270px;
-    margin-top: 260px;
-    margin: 260px 341px 0px;
-
+    bottom: 18%;
+    left: 28%;
 }
 
 .slider__content-allheading {
@@ -414,8 +416,8 @@
 
 .bridge-content-btn {
     position: absolute;
-    top: 20%;
-    left: 34%;
+    top: 7%;
+    left: 30%;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -653,8 +655,8 @@
 
 .discover-box {
     position: absolute;
-    top: 60px;
-    left: 320px;
+    top: 24%;
+    left: 30%;
     text-align: center;
 }
 
