@@ -632,7 +632,7 @@
 .discover-cities {
     padding-top: 210px !important;
     padding-bottom: 60px !important;
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-5-filter.jpg?id=1584) !important;
+    background-image: url(/assets/img/parallax-5-filter.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -641,7 +641,7 @@
 .discover-Nature {
     padding-top: 210px !important;
     padding-bottom: 60px !important;
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-6-filter.jpg?id=1585) !important;
+    background-image: url(/assets/img/parallax-6-filter.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
@@ -822,7 +822,7 @@
     padding-top: 400px !important;
     padding-bottom: 200px !important;
     
-    background-image: url(http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-7.jpg?id=1602) !important;
+    background-image: url(/assets/img/parallax-7.jpg) !important;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
