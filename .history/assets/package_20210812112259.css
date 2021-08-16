@@ -1,9 +1,0 @@
-/* slide */
-.img-slide-packages {
-    background: url('/assets/img/parallax-search-2.jpg') top center / cover no-repeat;
-    z-index: -1;
-    position: absolute;
-    top: 0;
-    padding-top: 100%;
-    width: 100%;
-}
