@@ -1,0 +1,68 @@
+/* button */
+.btn-red {
+    background-color: #f76570;
+}
+
+.p-white {
+    color: #fff!important;
+}
+
+/* slide */
+.img-slide-packages {
+    background: url('/assets/img/parallax-search-2.jpg') top center / cover no-repeat;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    padding-top: 45%;
+    width: 100%;
+}
+
+.package__slide-h1 {
+    color: #fff;
+    font-size: 2rem;
+}
+
+.package__slide-h2 {
+    margin-top: 20px;
+    color: #fff;
+    font-size: 4rem;
+    font-weight: bold;
+}
+
+.package__slide-h2 u {
+    text-decoration-color: #e27557;
+    z-index: 3;
+}
+
+/* slide-section */
+.slide-container {
+    background-color: #fff;
+    padding: 50px;
+}
+.slide-section{
+
+}
+.slide-section-head{
+    font-size: 1.5rem;
+    font-weight: 700;
+    color: #555555;
+}
+.slide-section-btn{
+    border-radius: 30px;
+    background-color: #f9f9f9;
+    border-style: solid 1px #f9f9f9;
+    color: #a3a3a3;
+}
+.slide-section-button{
+
+}
+.slide-form-icon{
+
+}
+
+.slide-input:checked ~ h1 {
+    color: red;
+}
+
+
+
